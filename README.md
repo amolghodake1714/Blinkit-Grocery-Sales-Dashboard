@@ -42,14 +42,13 @@ From the "BlinkIT Grocery Raw Data" sheet, the dashboard analyzes:
  
 
 ## 📈 Dashboard Features (Sheet: Dashboard)
-
 **Feature	Description**
--Sales by Item Type	Bar/Column chart showing top-selling categories.
--Sales by Location	Tier-wise performance analysis.
--Outlet Type vs Sales	Contribution of different outlet types to total sales.
--Rating-wise Product Distribution	Pie chart or histogram showing customer satisfaction.
--Fat Content Analysis	Sales comparison based on fat content in items.
--Yearly Trend	Graphs showing sales by outlet establishment year.
+- Sales by Item Type	Bar/Column chart showing top-selling categories.
+- Sales by Location	Tier-wise performance analysis.
+- Outlet Type vs Sales	Contribution of different outlet types to total sales.
+- Rating-wise Product Distribution	Pie chart or histogram showing customer satisfaction.
+- Fat Content Analysis	Sales comparison based on fat content in items.
+- Yearly Trend	Graphs showing sales by outlet establishment year.
 
  
 ## 🚀 How to Use
